@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/beyond/Sites/novartis_moderator/novartis_moderator/moderator/static/moderatortab/themes/dummy/css'
+let g:netrw_dirhist_2='/Users/beyond/Sites/virgin-drupal-new'
+let g:netrw_dirhist_3='/Users/beyond/iads/qashqai-2014-01.ad/AdUnit'
+let g:netrw_dirhist_4='/Users/beyond/Sites/testing/Notes/src/modules/library'
+let g:netrw_dirhist_5='/Users/beyond/iads/experiments/game-test.ad/AdUnit'
